@@ -6,8 +6,9 @@ Debug Adapter Implementation References: https://microsoft.github.io/debug-adapt
 
 Debugger Extension | Visual Studio Code Extension API: https://code.visualstudio.com/api/extension-guides/debugger-extension#debugging-architecture-of-vs-code
 
-Publishing Extensions | Visual Studio Code Extension API: https://code.visualstudio.com/api/working-with-extensions/publishing-extension
+Publishing Extensions: https://code.visualstudio.com/api/working-with-extensions/publishing-extension 
 
+Visual Studio Code Extension API: https://code.visualstudio.com/api
 
 # Existing Implementation and examples
 SDKs for the DAP: https://microsoft.github.io/debug-adapter-protocol/implementors/sdks/
